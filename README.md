@@ -1,12 +1,42 @@
 ## 💫 About Me
 
-🔭 **Sitecore Certified CMS FullStack Developer** with a passion for creating robust web solutions
+🔭 **CMS FullStack Developer** with 8+ years of enterprise experience in **Sitecore** (versions 6 to XM Cloud) and **Adobe Experience Manager (AEM)**, building backend and full-stack solutions with .NET/C#, React, and Azure
 
-👯 **Looking to collaborate on** anything in the CMS domain
+🤖 **Anthropic Claude Certified** (Architect, Developer, Associate). Learning and applying AI in daily development work, including LLMs, RAG, agents, evals, and AI guardrails
 
-🌱 **Currently learning** MERN stack, Docker/Kubernetes, and AWS
 
-💬 **Ask me about** Tech and Coffee ☕
+## 🎓 Certifications
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="certificates/claude-certified-associate-foundations.png" width="260" alt="Claude Certified Associate – Foundations"/><br/>
+<b>Claude Certified Associate – Foundations</b>
+</td>
+<td align="center" width="33%">
+<img src="certificates/claude-certified-developer-foundations.png" width="260" alt="Claude Certified Developer – Foundations"/><br/>
+<b>Claude Certified Developer – Foundations</b>
+</td>
+<td align="center" width="33%">
+<img src="certificates/claude-certified-architect-professional.png" width="260" alt="Claude Certified Architect – Professional"/><br/>
+<b>Claude Certified Architect – Professional</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="certificates/AEM-Developer.png" width="260" alt="AEM Developer"/><br/>
+<b>AEM Developer</b>
+</td>
+<td align="center" width="33%">
+<img src="certificates/sitecore-10-net-developer-certification-2024.png" width="260" alt="Sitecore 10 .NET Developer"/><br/>
+<b>Sitecore 10 .NET Developer</b>
+</td>
+<td align="center" width="33%">
+<img src="certificates/sitecore-xm-cloud-developer-certification-2023.png" width="260" alt="Sitecore XM Cloud Developer"/><br/>
+<b>Sitecore XM Cloud Developer</b>
+</td>
+</tr>
+</table>
 
 
 ## 🌐 Connect with Me
@@ -21,6 +51,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![AEM](https://img.shields.io/badge/Adobe%20Experience%20Manager-FA0F00?style=for-the-badge&logo=adobe&logoColor=white)
 
 ### 🔍 Search & Monitoring
 ![Apache Solr](https://img.shields.io/badge/Apache%20Solr-D9411E?style=for-the-badge&logo=apache-solr&logoColor=white)
@@ -31,6 +62,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
