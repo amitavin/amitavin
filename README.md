@@ -27,14 +27,29 @@
 <img src="certificates/AEM-Developer.png" width="260" alt="AEM Developer"/><br/>
 <b>AEM Developer</b>
 </td>
+  <td align="center" width="33%">
+<img src="certificates/sitecore-xm-cloud-developer-certification-2023.png" width="260" alt="Sitecore XM Cloud Developer"/><br/>
+<b>Sitecore XM Cloud Developer</b>
+</td>
 <td align="center" width="33%">
 <img src="certificates/sitecore-10-net-developer-certification-2024.png" width="260" alt="Sitecore 10 .NET Developer"/><br/>
 <b>Sitecore 10 .NET Developer</b>
 </td>
+
+</tr>
+<tr>
 <td align="center" width="33%">
-<img src="certificates/sitecore-xm-cloud-developer-certification-2023.png" width="260" alt="Sitecore XM Cloud Developer"/><br/>
-<b>Sitecore XM Cloud Developer</b>
+<img src="certificates/Databricks-GenAI-Foundamentals.png" width="260" alt="Databricks-GenAI-Fundamentals"/><br/>
+<b>Databricks GenAI-Fundamentals</b>
 </td>
+  <td align="center" width="33%">
+<img src="certificates/nodeJS-Foundation.png" width="260" alt="NodeJS Foundamentals - Linux Foundation"/><br/>
+<b>NodeJS Foundamentals - Linux Foundation</b>
+</td>
+<td align="center" width="33%">
+
+</td>
+
 </tr>
 </table>
 
