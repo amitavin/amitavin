@@ -9,21 +9,38 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="certificates/claude-certified-associate-foundations.png" width="260" alt="Claude Certified Associate – Foundations"/><br/>
-<b>Claude Certified Associate – Foundations</b>
+  <td align="center" width="33%">
+<img src="certificates/claude-certified-architect-professional.png" width="260" alt="Claude Certified Architect – Professional"/><br/>
+<b>Claude Certified Architect – Professional</b>
 </td>
+    <td align="center" width="33%">
+<img src="certificates/claude-certified-architect-foundational.png" width="260" alt="Claude Certified Architect – Foundanations"/><br/>
+<b>Claude Certified Architect – Foundanations</b>
+</td>
+
 <td align="center" width="33%">
 <img src="certificates/claude-certified-developer-foundations.png" width="260" alt="Claude Certified Developer – Foundations"/><br/>
 <b>Claude Certified Developer – Foundations</b>
 </td>
-<td align="center" width="33%">
-<img src="certificates/claude-certified-architect-professional.png" width="260" alt="Claude Certified Architect – Professional"/><br/>
-<b>Claude Certified Architect – Professional</b>
-</td>
+
 </tr>
 <tr>
+  <td align="center" width="33%">
+<img src="certificates/claude-certified-associate-foundations.png" width="260" alt="Claude Partner Badge - Claude Code"/><br/>
+<b>Claude Partner Badge - Claude Code</b>
+</td>
 <td align="center" width="33%">
+<img src="certificates/claude-partner-badge-claude-code.png" width="260" alt="Claude Certified Associate – Foundations"/><br/>
+<b>Claude Certified Associate – Foundations</b>
+</td>
+  <td align="center" width="33%">
+<img src="certificates/Databricks-GenAI-Foundamentals.png" width="260" alt="Databricks-GenAI-Fundamentals"/><br/>
+<b>Databricks GenAI-Fundamentals</b>
+</td>
+
+</tr>
+<tr>
+  <td align="center" width="33%">
 <img src="certificates/AEM-Developer.png" width="260" alt="AEM Developer"/><br/>
 <b>AEM Developer</b>
 </td>
@@ -38,17 +55,12 @@
 
 </tr>
 <tr>
-<td align="center" width="33%">
-<img src="certificates/Databricks-GenAI-Foundamentals.png" width="260" alt="Databricks-GenAI-Fundamentals"/><br/>
-<b>Databricks GenAI-Fundamentals</b>
-</td>
+
   <td align="center" width="33%">
 <img src="certificates/nodeJS-Foundation.png" width="260" alt="NodeJS Foundamentals - Linux Foundation"/><br/>
 <b>NodeJS Foundamentals - Linux Foundation</b>
 </td>
-<td align="center" width="33%">
 
-</td>
 
 </tr>
 </table>
